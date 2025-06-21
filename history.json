@@ -1,0 +1,461 @@
+[
+    {
+        "label": "RDBMS Jobs",
+        "confidence": "0.84%",
+        "image_url": "/static/uploads/vikash-9917103135_-_vikash_singhal.pdf"
+    },
+    {
+        "label": "RDBMS Jobs",
+        "confidence": "0.82%",
+        "image_url": "/static/uploads/Varun17103068_-_VARUN_SINGHAI.pdf"
+    },
+    {
+        "label": "RDBMS Jobs",
+        "confidence": "0.82%",
+        "image_url": "/static/uploads/Varun17103068_-_VARUN_SINGHAI.pdf"
+    },
+    {
+        "label": "58",
+        "confidence": "0.82%",
+        "image_url": "/static/uploads/10276858.pdf"
+    },
+    {
+        "label": "162",
+        "confidence": "98.48%",
+        "image_url": "/static/uploads/10329506.pdf"
+    },
+    {
+        "cv_file": "10329506.pdf",
+        "jd_file": "11360471.pdf",
+        "label": "162",
+        "confidence": 98.52713012695312,
+        "timestamp": "2025-01-13 06:58:26"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "11773925.pdf",
+        "label": "162",
+        "confidence": 98.27999114990234,
+        "timestamp": "2025-01-13 07:02:19"
+    },
+    {
+        "cv_file": "10653119.pdf",
+        "jd_file": "11266906.pdf",
+        "label": "162",
+        "confidence": 96.46043395996094,
+        "timestamp": "2025-01-13 07:08:58"
+    },
+    {
+        "cv_file": "10830646.pdf",
+        "jd_file": "11773925.pdf",
+        "label": "162",
+        "confidence": 97.55836486816406,
+        "timestamp": "2025-01-13 07:13:20"
+    },
+    {
+        "cv_file": "17033567.pdf",
+        "jd_file": "17104024_hritik_aggarwal_-_Hritik_Aggarwal.pdf",
+        "label": "162",
+        "confidence": 97.38703155517578,
+        "timestamp": "2025-01-13 23:06:21"
+    },
+    {
+        "cv_file": "10830646.pdf",
+        "jd_file": "11121498.pdf",
+        "label": "162",
+        "confidence": 97.55836486816406,
+        "timestamp": "2025-01-13 23:32:59",
+        "missing_skills": []
+    },
+    {
+        "cv_file": "10889157.pdf",
+        "jd_file": "11065180.pdf",
+        "label": "162",
+        "confidence": 98.529541015625,
+        "timestamp": "2025-01-14 01:47:20",
+        "missing_skills": []
+    },
+    {
+        "cv_file": "Vaishnavi_Agarwal_-_vaishnavi_agarwal.pdf",
+        "jd_file": "Utkarsh_17104019_-_Utkarsh_Nigam.pdf",
+        "label": "143",
+        "confidence": 92.29835510253906,
+        "timestamp": "2025-01-14 23:31:58",
+        "missing_skills": [
+            "css",
+            "html",
+            "tensorflow",
+            "python"
+        ]
+    },
+    {
+        "cv_file": "TanyaGoyan17103153_-_tanya_goyan.pdf",
+        "jd_file": "Utkarsh_17104019_-_Utkarsh_Nigam.pdf",
+        "label": "143",
+        "confidence": 94.9522933959961,
+        "timestamp": "2025-01-14 23:32:17",
+        "missing_skills": [
+            "python",
+            "html",
+            "tensorflow",
+            "machine learning"
+        ]
+    },
+    {
+        "cv_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "jd_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "label": "162",
+        "confidence": 98.60118865966797,
+        "timestamp": "2025-05-19 22:46:02"
+    },
+    {
+        "cv_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "jd_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "label": "162",
+        "confidence": 98.60118865966797,
+        "timestamp": "2025-05-19 23:32:31"
+    },
+    {
+        "cv_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "jd_file": "Language-Specialist-CV-Example.png_2.4793.506_pixels.pdf",
+        "label": "162",
+        "confidence": 98.60118865966797,
+        "timestamp": "2025-05-19 23:32:46"
+    },
+    {
+        "cv_file": "10329506.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 98.52713012695312,
+        "timestamp": "2025-05-20 00:16:49"
+    },
+    {
+        "cv_file": "24349611.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 96.05630493164062,
+        "timestamp": "2025-05-20 00:17:30"
+    },
+    {
+        "cv_file": "10276858.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 96.06657409667969,
+        "timestamp": "2025-05-20 00:42:06"
+    },
+    {
+        "cv_file": "10276858.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 96.06657409667969,
+        "timestamp": "2025-05-20 00:44:14"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.27996826171875,
+        "timestamp": "2025-05-20 01:08:37"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.00120544433594,
+        "timestamp": "2025-05-20 07:06:01"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.00120544433594,
+        "timestamp": "2025-05-20 07:08:23"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.27996826171875,
+        "timestamp": "2025-05-20 08:52:29"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 98.27996826171875,
+        "timestamp": "2025-06-21 05:33:46"
+    },
+    {
+        "cv_file": "25924968.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.37460327148438,
+        "timestamp": "2025-06-21 05:34:17"
+    },
+    {
+        "cv_file": "11266906.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "160",
+        "confidence": 95.23876953125,
+        "timestamp": "2025-06-21 05:34:51"
+    },
+    {
+        "cv_file": "25462793.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 98.10771942138672,
+        "timestamp": "2025-06-21 07:02:34"
+    },
+    {
+        "cv_file": "26673507.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 97.38104248046875,
+        "timestamp": "2025-06-21 07:02:55"
+    },
+    {
+        "cv_file": "26673507.pdf",
+        "jd_file": "28051330.pdf",
+        "label": "162",
+        "confidence": 97.38104248046875,
+        "timestamp": "2025-06-21 07:03:08"
+    },
+    {
+        "cv_file": "24061629.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "162",
+        "confidence": 98.58003234863281,
+        "timestamp": "2025-06-21 07:05:43"
+    },
+    {
+        "cv_file": "24061629.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 98.58003234863281,
+        "timestamp": "2025-06-21 07:06:14"
+    },
+    {
+        "cv_file": "33135102.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "162",
+        "confidence": 98.32413482666016,
+        "timestamp": "2025-06-21 07:06:26"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 47.06,
+        "timestamp": "2025-06-21 07:45:22"
+    },
+    {
+        "cv_file": "11163645.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 9.97,
+        "timestamp": "2025-06-21 07:47:19"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "3547447.pdf",
+        "label": "Not Match",
+        "confidence": 24.01,
+        "timestamp": "2025-06-21 07:52:14"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 47.06,
+        "timestamp": "2025-06-21 07:55:27"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 47.06,
+        "timestamp": "2025-06-21 07:56:45"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 47.06,
+        "timestamp": "2025-06-21 07:58:02"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 35.82,
+        "timestamp": "2025-06-21 07:59:28"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 47.06,
+        "timestamp": "2025-06-21 08:20:52"
+    },
+    {
+        "cv_file": "3547447.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 33.69,
+        "timestamp": "2025-06-21 08:21:01"
+    },
+    {
+        "cv_file": "12155206.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 30.27,
+        "timestamp": "2025-06-21 08:21:12"
+    },
+    {
+        "cv_file": "10001727.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 35.82,
+        "timestamp": "2025-06-21 08:21:26"
+    },
+    {
+        "cv_file": "10588874.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 34.08,
+        "timestamp": "2025-06-21 08:21:34"
+    },
+    {
+        "cv_file": "11444536.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": -1.09,
+        "timestamp": "2025-06-21 08:21:41"
+    },
+    {
+        "cv_file": "11773925.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 8.67,
+        "timestamp": "2025-06-21 08:21:50"
+    },
+    {
+        "cv_file": "36019469.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 16.93,
+        "timestamp": "2025-06-21 08:21:58"
+    },
+    {
+        "cv_file": "17104024_hritik_aggarwal_-_Hritik_Aggarwal.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 15.77,
+        "timestamp": "2025-06-21 08:22:08"
+    },
+    {
+        "cv_file": "17103172_rishi_singhal_id_dp1_-_Rishi_Singhal.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 27.71,
+        "timestamp": "2025-06-21 08:22:17"
+    },
+    {
+        "cv_file": "14496667.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 16.39,
+        "timestamp": "2025-06-21 08:22:26"
+    },
+    {
+        "cv_file": "20321582.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 24.68,
+        "timestamp": "2025-06-21 08:22:36"
+    },
+    {
+        "cv_file": "24703009.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 20.75,
+        "timestamp": "2025-06-21 08:22:47"
+    },
+    {
+        "cv_file": "24703009.pdf",
+        "jd_file": "Data-Reporting-Analyst-Job-Description.pdf",
+        "label": "Not Match",
+        "confidence": 33.77,
+        "timestamp": "2025-06-21 08:23:10"
+    },
+    {
+        "cv_file": "Resume_New_-_Prakhar_Yadav.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 10.38,
+        "timestamp": "2025-06-21 08:23:27"
+    },
+    {
+        "cv_file": "Resume_New_-_Prakhar_Yadav.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 10.38,
+        "timestamp": "2025-06-21 08:26:21"
+    },
+    {
+        "cv_file": "50222417.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 45.16,
+        "timestamp": "2025-06-21 08:26:44"
+    },
+    {
+        "cv_file": "94230796.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 39.94,
+        "timestamp": "2025-06-21 08:45:37"
+    },
+    {
+        "cv_file": "99033098.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 20.16,
+        "timestamp": "2025-06-21 08:45:50"
+    },
+    {
+        "cv_file": "20149476.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 4.08,
+        "timestamp": "2025-06-21 08:45:58"
+    },
+    {
+        "cv_file": "RICHA_PRAKASH_data_science_resume.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 15.78,
+        "timestamp": "2025-06-21 08:50:11"
+    },
+    {
+        "cv_file": "10089434.pdf",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 26.79,
+        "timestamp": "2025-06-21 08:51:34"
+    },
+    {
+        "cv_file": "IMG_1200.JPG",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": -7.16,
+        "timestamp": "2025-06-21 10:54:47"
+    },
+    {
+        "cv_file": "example-cv-data-scientist-b34848-2.jpg",
+        "jd_file": "2024.unlp-1.2.pdf",
+        "label": "Not Match",
+        "confidence": 32.46,
+        "timestamp": "2025-06-21 11:01:11"
+    }
+]
